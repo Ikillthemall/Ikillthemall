@@ -1,6 +1,6 @@
 - 👋 Hi guys, I’m @Ikillthemall
 - 👀 I’m interested in developing web
-- 🌱 I’m currently learning PHP, JavaScripte, ReactJs,... But I can use a pencil very well
+- 🌱 I’m currently learning PHP, JavaScript, ReactJs,...
 - 📫 How to reach me ...
 
 <!---
